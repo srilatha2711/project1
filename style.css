@@ -1,0 +1,170 @@
+#navbar {
+    width:100%;
+    overflow:auto;
+    padding:8px;
+    background:lightseagreen;
+    margin:0;
+    top:0;
+}     
+#linkref:hover {
+    color:grey;
+}
+#linkedin:hover {
+    color:grey;
+}
+#linkref {
+   color:white;
+   font-size:20px;
+   font-family:serif;
+   padding-left:20px;
+}
+ul {
+    list-style:none;
+    float:left;
+}
+#navbar ul li {
+    float:left;
+}
+#linkedin {
+    float:right;
+    color:white;
+    padding-right:30px;
+    font-size:20px;
+    text-decoration: none;
+    font-family:serif;
+    display:block;
+}
+h4 {
+    padding-left: 520px;
+    padding-top:50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow:2px 2px yellow;
+    font-size:25px;
+}
+h3 {
+    text-shadow:2px 2px yellow;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    padding-right:10px;
+}
+.img-circle {
+    margin-left: 550px;
+    margin-bottom:80px;
+}
+p {
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top:0px;
+    font-size: 20px;
+    color:black;
+}
+.port {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagRuSuShv_zgE42FiLObFihNJl-cxNv2DjRxAOxZkhrXxHrNj9g") no-repeat center center fixed;
+    background-size: cover;
+    height:400px;
+}
+.banner {
+    background: url("http://decorholic.org/wp-content/uploads/2018/09/simple-powerpoint-background-professional-listmachinepro-with-regard-to-simple-powerpoint-background-professional.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height:600px;
+}
+.con {
+    background:url("https://media.istockphoto.com/photos/hand-of-businessman-holding-mobile-smartphone-with-picture-id865992446?k=6&m=865992446&s=612x612&w=0&h=dMPsXCIXxaPbBINGy7pGjBtozxMSZsNXFOhHSK19Tw4=") no-repeat center center fixed;
+    background-size:cover;
+    height:600px;
+}
+#wrap {
+    padding-left:80px;
+    padding-top:50px;
+}
+* {
+    box-sizing: border-box;
+  }
+  /* Add styles to the form container */
+  .container {
+      border-radius:20px;
+    right: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color:white;
+  }
+  
+  /* Full-width input fields */
+    input[type=text] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background:lightgrey;
+  }
+  
+  input[type=text]:focus {
+    background-color: #ddd;
+    outline: none;
+  }  
+  .icon a {
+      text-decoration: none;
+      color:white;
+  }
+  /* Set a style for the submit button */
+  .b1 {
+    background-color: #4CAF50;
+    padding:10px;
+    text-align: center;
+    color:white;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .b1:hover {
+    opacity: 1;
+  }
+ .footer {
+    width:100%;
+    position: fixed;
+    text-align: center;
+    overflow:auto;
+    padding:8px;
+    background:lightseagreen;
+    margin:0;
+    bottom:0;
+ }
+ button {
+     font-size:20px;
+     margin:60px;
+     background-color: rgb(71, 68, 68);
+ }
+ .button:hover {
+     opacity:1;
+ }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 150px;
+    box-shadow: 0px 8px 10px 0px rgba(0,0,0,0.2);
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 15px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+   
